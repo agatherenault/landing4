@@ -1,0 +1,142 @@
+.banner {
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 50%), url("../../images/background.jpg");
+	color : white;
+	padding: 150px 0px;
+	height: 200px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.banner h1 {
+	font-size: 50px;
+	color: #dec0f1;
+	text-shadow: 2px 2px 2px #DD6E42;
+
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	margin-bottom: 5px;
+	color: #DD6E42;
+	text-shadow: 
+}
+
+
+
+#banner_agathe {
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 80%), url("../../images/background-agathe.jpg");
+	background-position: center;
+	height: 200px;
+
+}
+
+#banner_agathe h1 {
+	color: #B79CED;
+	text-shadow: 3px 3px 2px #DD6E42;
+}
+
+#banner_agathe h2 {
+	color: #DD6E42;
+	text-shadow: 1px 1px 2px #B79CED;
+}
+
+
+
+#banner_emma {
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 80%), url("../../images/background-emma.jpg");
+	background-position: center;
+	height: 200px;
+
+}
+
+#banner_emma h1 {
+	color: #B79CED;
+	text-shadow: 3px 3px 2px #DD6E42;
+}
+
+#banner_emma h2 {
+	color: #DD6E42;
+	text-shadow: 1px 1px 2px #B79CED;
+}
+
+#banner_isaure {
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 80%), url("../../images/background-isaure.jpg");
+	background-position: center;
+	height: 200px;
+}
+
+#banner_isaure h1 {
+	color: #B79CED;
+	text-shadow: 3px 3px 2px #DD6E42;
+}
+
+#banner_isaure h2 {
+	color: #DD6E42;
+	text-shadow: 1px 1px 2px #B79CED;
+}
+
+#banner_leal {
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 80%), url("../../images/background-leal.jpg");
+	background-position: center;
+	height: 200px;
+}
+
+#banner_leal h1 {
+	color: #B79CED;
+	text-shadow: 3px 3px 2px #DD6E42;
+}
+
+#banner_leal h2 {
+	color: #DD6E42;
+	text-shadow: 1px 1px 2px #B79CED;
+}
+
+#banner_marianne {
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 80%), url("../../images/background-marianne.jpg");
+	background-position: center;
+	height: 200px;
+}
+
+#banner_marianne h1 {
+	color: #B79CED;
+	text-shadow: 3px 3px 2px #DD6E42;
+}
+
+#banner_marianne h2 {
+	color: #DD6E42;
+	text-shadow: 1px 1px 2px #B79CED;
+}
+
+#banner_leas {
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 80%), url("../../images/background-leas.jpg");
+	background-position: center;
+	height: 200px;
+}
+
+#banner_leas h1 {
+	color: #B79CED;
+	text-shadow: 3px 3px 2px #DD6E42;
+}
+
+#banner_leas h2 {
+	color: #DD6E42;
+	text-shadow: 1px 1px 2px #B79CED;
+}
+
+#banner_perrine {
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 80%), url("../../images/background-perrine.jpg");
+	background-position: center;
+	height: 200px;
+}
+
+#banner_perrine h1 {
+	color: #B79CED;
+	text-shadow: 3px 3px 2px #DD6E42;
+}
+
+#banner_perrine h2 {
+	color: #DD6E42;
+	text-shadow: 1px 1px 2px #B79CED;
+}

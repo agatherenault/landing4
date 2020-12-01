@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Homemade+Apple&family=Old+Standard+TT&family=Righteous&display=swap')
+
+@import url("components/blablabla.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Old Standard TT', serif;
+	font-size: 18px;
+	background-color: #dd6e42;
+	margin : 0px auto;
+}
+
+h1,h2{
+	font-family: 'Fredoka One', cursive;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: 'Righteous', cursive;
+
+
+}
+
+h4 {
+	font-family: 'Righteous', cursive;
+	color: white;
+	font-size: 18px;
+}
+
+
+h5 {
+	font-family: Arial;
+	padding: 10px;
+	color: grey;
+}
+a {
+	text-decoration: none;
+}
+
+audio {
+	margin: 50px auto; 
+}
+
+.orange_card {
+	background-color: #B79CED;
+	padding: 40px;
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-bottom: 200px;
+	margin-top: 20px;
+	box-shadow: 10px 10px 10px #DEC0F1;
+	border-radius: 10px;
+	
+}
+
+.orange_card {
+	list-style: none;
+	padding-left: 20px;
+}
+
+
+.orange_card li {
+	display: inline;
+	padding: 40px;
+	position: center;
+}
+
+.orange_card i {
+	font-size: 50px;
+	color: #DD6E42;
+}
+
+.orange_card i:hover {
+	color: #8338ec;
+
+}

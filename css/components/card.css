@@ -1,0 +1,89 @@
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+.card {
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin: 10px;
+	flex-basis: 250px;
+	flex-grow: 1;
+	background-color: #E8DAB2;
+	color: #dd6e42;
+	box-shadow: rgba(222, 192, 241, 0.4) 5px 5px, rgba(222, 192, 241, 0.3) 10px 10px, rgba(222, 192, 241, 0.2) 15px 15px, rgba(222, 192, 241, 0.1) 20px 20px, rgba(222, 192, 241, 0.05) 25px 25px;
+
+}
+
+.card img {
+	width: 150px;
+	border-radius: 6px;
+	height: 150px;
+}
+
+.card h3 {
+	font-size: 24px;
+	flex-grow: 1;
+	padding-left: 20px;
+	text-shadow: 1px 1px 1px #dec0f1;
+}
+
+.card h4 {
+	font-size: 18px;
+	flex-grow: 1;
+	padding-left: 20px;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+
+// CARTES AGATHE//
+
+#couleur_card_agathe {
+	background-image: url(#);
+}
+
+#couleur_card h4 {
+	text-shadow: 2px 2px 2px #008037;
+}
+
+#animal_card h4 {
+	text-shadow: 2px 2px 2px #7ED957;
+}
+
+#qualites_card h4 {
+	text-shadow: 2px 2px 2px #C9E265;
+}
+
+#defauts_card h4 {
+	text-shadow: 2px 2px 2px #FFDE59;
+}
+
+#interets_card h4 {
+	text-shadow: 2px 2px 2px #FFBD59;
+}
+
+#futur_card h4 {
+	text-shadow: 2px 2px 2px #FF914D;
+}
+
+#citation_card h4 {
+	text-shadow: 2px 2px 2px #BB5C21;
+}
+
+#oeuvre_card h4 {
+	text-shadow: 2px 2px 2px #702B00;
+}
+
+
+
+
+
+
+
+

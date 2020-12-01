@@ -1,0 +1,33 @@
+.avatar {
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	position: absolute;
+	top: 40%; left: 60%;
+	transform: translate(-50%, 50%);
+	border-style: solid;
+	border-color: #DEC0F1;
+	border-width: 10px;
+}
+
+
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .avatar {
+    width: 120px;
+  }
+}
+@media (max-width: 900px) {
+  /* For a screen < 720px, this CSS will be read */
+  .avatar {
+  	display: none;
+
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .avatar {
+    display: none;
+  }
+}
